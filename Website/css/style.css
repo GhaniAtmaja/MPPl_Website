@@ -14838,7 +14838,7 @@ img.nft__item_preview{
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    max-width: 200px;
+    max-width: 140px;
     overflow: hidden;
     float: left;
     color: #727272;
